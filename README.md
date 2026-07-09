@@ -37,8 +37,6 @@ Currently focusing on:
 
 <img src="https://skillicons.dev/icons?i=php,python,cpp,react,js,html,css,mysql,git,github,vscode,figma,pycharm,ps"/>
 
-<!-- Antigravity icon -->
-<a href="https://xkcd.com/353/"><img src="https://img.shields.io/badge/antigravity-FFD1DC?style=for-the-badge&logo=python&logoColor=4F4F4F&labelColor=F5F5DC"/></a>
 
 </div>
 
