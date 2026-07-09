@@ -2,12 +2,7 @@
 <!--            PINK GITHUB README         -->
 <!-- ===================================== -->
 
-<div align="center">
-  <!-- Cropped, high-quality, modern custom banner -->
-  <img src="banner.jpg" width="100%" alt="Olha's Professional Banner" style="border-radius: 15px;" />
-</div>
 
-<br />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Computer+Science+Student+🇺🇦;Full+Stack+Developer;React+Native+%7C+TypeScript;Python+%7C+PHP+%7C+SQL;Always+learning+new+technologies+💖"/>
@@ -15,21 +10,21 @@
 
 ---
 
-# 🌸 Про мене
+# 🌸 About Me
 
-Привіт! Мене звати **Ольга** 👋  
-Я студентка комп'ютерних наук (Computer Science) та Full Stack / Mobile розробниця з України 🇺🇦. Захоплююсь створенням естетичних, зручних та функціональних цифрових продуктів з чистою архітектурою та продуманим UI/UX.
+Hi! My name is **Olha** 👋  
+I am a Computer Science student and a Full Stack / Mobile developer from Ukraine 🇺🇦. I am passionate about creating aesthetic, user-friendly, and functional digital products with clean architecture and thoughtful UI/UX.
 
-### ✨ Ключові досягнення та фокус:
-* 📱 **Mobile Development**: Проектування та розробка кросплатформних мобільних додатків на **React Native** (**TypeScript** / **Expo**).
-* 💻 **SaaS & CRM рішення**: Співзасновниця та Lead Developer кросплатформного програмного забезпечення для б'юті-салонів (**[BeautyRoomApp](https://github.com/oljyaaa/BeautyRoomApp)**) — автоматизованого журналу записів та обліку клієнтів.
-* 🐍 **Backend Engineering**: Розробка надійної серверної логіки на **Python** та **PHP**, інтеграція REST APIs та оптимізація баз даних **MySQL**.
-* 🎨 **UI/UX Design**: Проектування інтерфейсів у **Figma** з акцентом на сучасні тренди та користувацький досвід (UX).
-* 🧪 **QA Testing**: Написання тестів та забезпечення високої якості та стабільності коду перед релізом.
+### ✨ Key Achievements & Focus:
+* 📱 **Mobile Development**: Designing and developing cross-platform mobile applications using **React Native** (**TypeScript** / **Expo**).
+* 💻 **SaaS & CRM Solutions**: Co-founder and Lead Developer of cross-platform software for beauty salons (**[BeautyRoomApp](https://github.com/oljyaaa/BeautyRoomApp)**) — an automated appointment journal and client management system.
+* 🐍 **Backend Engineering**: Developing robust server-side logic using **Python** and **PHP**, integrating REST APIs, and optimizing **MySQL** databases.
+* 🎨 **UI/UX Design**: Designing user interfaces in **Figma** with a focus on modern trends and user experience (UX).
+* 🧪 **QA Testing**: Writing tests and ensuring high quality and stability of code before release.
 
 ---
 
-# 💻 Технологічний стек
+# 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,php,python,cpp,mysql,git,github,vscode,pycharm,figma,ps&perline=8&theme=light" alt="My Tech Stack" />
@@ -37,17 +32,17 @@
 
 ---
 
-# 📊 Статистика GitHub
+# 📊 GitHub Stats
 
 <div align="center">
   <table border="0" cellpadding="5" cellspacing="5">
     <tr>
       <td valign="top" width="50%">
-        <!-- Статистика профілю через стабільне дзеркало extended -->
+        <!-- Profile stats via stable extended mirror -->
         <img width="100%" src="https://github-stats-extended.vercel.app/api?username=oljyaaa&show_icons=true&bg_color=FFF0F5&title_color=FFB6C1&text_color=4F4F4F&icon_color=FFB6C1&border_color=FFD1DC&hide_border=true&border_radius=15" alt="Olha's GitHub Stats" />
       </td>
       <td valign="top" width="50%">
-        <!-- Найбільш використовувані мови через дзеркало extended -->
+        <!-- Most used languages via extended mirror -->
         <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=oljyaaa&layout=compact&bg_color=FFF0F5&title_color=FFB6C1&text_color=4F4F4F&border_color=FFD1DC&hide_border=true&border_radius=15" alt="Olha's Top Languages" />
       </td>
     </tr>
@@ -70,15 +65,7 @@
 
 ---
 
-# 🏆 Досягнення (Trophies)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oljyaaa&theme=pastel&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
----
-
-# 🐍 Змійка активності (GitHub Contribution Snake)
+# 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -89,14 +76,14 @@
 
 ---
 
-# ⭐ Обрані проекти
+# ⭐ Selected Projects
 
 <div align="center">
-  <!-- Справжній лінк на кросплатформний мобільний додаток -->
+  <!-- Real link to the cross-platform mobile app -->
   <a href="https://github.com/oljyaaa/BeautyRoomApp" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=oljyaaa&repo=BeautyRoomApp&bg_color=FFF0F5&title_color=FFB6C1&text_color=4F4F4F&icon_color=FFB6C1&border_color=FFD1DC&border_radius=15" alt="BeautyRoomApp Pin" />
   </a>
-  <!-- Справжній лінк на чат-бот -->
+  <!-- Real link to the chatbot -->
   <a href="https://github.com/oljyaaa/LogiTalk" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=oljyaaa&repo=LogiTalk&bg_color=FFF0F5&title_color=FFB6C1&text_color=4F4F4F&icon_color=FFB6C1&border_color=FFD1DC&border_radius=15" alt="LogiTalk Pin" />
   </a>
@@ -104,7 +91,7 @@
 
 ---
 
-# 🌱 Що я зараз вивчаю
+# 🌱 What I'm Currently Learning
 
 <div align="center">
   <img src="https://img.shields.io/badge/React%20Native-FFD1DC?style=for-the-badge&logo=react&logoColor=4F4F4F&labelColor=F5F5DC" alt="React Native"/>
@@ -116,7 +103,7 @@
 
 ---
 
-# 📫 Як зі мною зв'язатися
+# 📫 How to Reach Me
 
 <div align="center">
   <a href="mailto:olgasologub2007@gmail.com">
@@ -132,7 +119,7 @@
 
 ---
 
-# 💖 Відвідуваність
+# 💖 Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=oljyaaa&label=Profile%20Views&color=FFB6C1&style=for-the-badge&labelBgColor=F5F5DC" alt="Visitor Count" />
