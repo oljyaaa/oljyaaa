@@ -35,7 +35,7 @@ Currently focusing on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,cpp,react,js,html,css,mysql,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=php,python,cpp,react,js,html,css,mysql,git,github,vscode,figma,antigravity,pycharm,vsstudio,photoshop"/>
 
 </div>
 
