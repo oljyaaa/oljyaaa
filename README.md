@@ -35,7 +35,7 @@ Currently focusing on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,cpp,react,js,html,css,mysql,git,github,vscode,figma,antigravity,pycharm,vsstudio,photoshop"/>
+<img src="https://skillicons.dev/icons?i=php,python,cpp,react,js,html,css,mysql,git,github,vscode,figma,pycharm,ps"/>
 
 </div>
 
@@ -67,7 +67,7 @@ Currently focusing on:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oljyaaa&theme=github-compact&bg_color=141321&color=ff69b4&line=ff69b4&point=ffc0cb&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oljyaaa&theme=tokyo-night"/>
 
 </div>
 
@@ -96,6 +96,12 @@ Currently focusing on:
 🗄 SQL & Database Projects
 
 🎨 Front-end UI Projects
+
+<a href="https://github.com/oljyaaa/BeautyRoom">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=oljyaaa&repo=BeautyRoom&theme=radical"/>
+
+</a>
 
 ---
 
@@ -159,3 +165,15 @@ Currently focusing on:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=13,24,30"/>
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/oljyaaa/oljyaaa/output/github-contribution-grid-snake.svg">
+
+</p>
+
+<img width="250" src="https://media.tenor.com/...gif">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=FF69B4"/>
