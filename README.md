@@ -54,8 +54,8 @@ I’m **Olha**, a Computer Science student and Full-Stack / Mobile Developer who
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oljyaaa&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=C4B5FD&text_color=CBD5E1&icon_color=A78BFA&border_color=312E81" alt="Olha's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oljyaaa&layout=compact&langs_count=6&bg_color=0F172A&title_color=C4B5FD&text_color=CBD5E1&border_color=312E81" alt="Most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oljyaaa&theme=github_dark" alt="Olha's GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oljyaaa&theme=github_dark" alt="Most used languages" />
 </div>
 
 <br />
