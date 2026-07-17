@@ -29,7 +29,7 @@ I’m **Olha**, a Computer Science student and Full-Stack / Mobile Developer who
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,expo,ts,js,html,css,php,python,ruby,c,cpp,cs,mysql,git,github,vscode,pycharm,xcode,windows,apple,linux,figma,jira,notion,obsidian,ngrok,ps,pr&theme=dark&perline=11" alt="Technology and tools: React, Expo, TypeScript, JavaScript, HTML, CSS, PHP, Python, Ruby, C, C++, C#, MySQL, Git, GitHub, VS Code, PyCharm, Xcode, Windows, macOS, Linux, Figma, Jira, Notion, Obsidian, ngrok, Adobe Photoshop and Adobe Premiere Pro" />
+    <img src="https://skillicons.dev/icons?i=react,expo,ts,js,html,css,jquery,php,python,ruby,dotnet,c,cpp,cs,mysql,sqlite,docker,npm,git,github,vscode,visualstudio,pycharm,xcode,powershell,postman,windows,apple,linux,figma,jira,notion,obsidian,discord,linkedin,ngrok,ps,pr&theme=dark&perline=11" alt="Technology and tools: React, Expo, TypeScript, JavaScript, HTML, CSS, jQuery, PHP, Python, Ruby, .NET, C, C++, C#, MySQL, SQLite, Docker, npm, Git, GitHub, VS Code, Visual Studio, PyCharm, Xcode, PowerShell, Postman, Windows, macOS, Linux, Figma, Jira, Notion, Obsidian, Discord, LinkedIn, ngrok, Adobe Photoshop and Adobe Premiere Pro" />
   </a>
 </div>
 
@@ -37,11 +37,12 @@ I’m **Olha**, a Computer Science student and Full-Stack / Mobile Developer who
 
 | Area | Tools I use |
 | :-- | :-- |
-| **Mobile & Web** | React Native, Expo, React, TypeScript, JavaScript, HTML, CSS |
-| **Backend & Data** | Python, PHP, Ruby, MySQL, REST APIs |
+| **Mobile & Web** | React Native, Expo, React, TypeScript, JavaScript, HTML, CSS, jQuery, npm |
+| **Backend & Data** | Python, PHP, Ruby, .NET, SQL, MySQL, SQLite, REST APIs |
 | **Core languages** | C, C++, C# |
-| **Product workflow** | Git, GitHub, Jira, Notion, Obsidian, ngrok, Figma, Adobe Premiere Pro |
-| **Development environment** | VS Code, PyCharm, Xcode |
+| **DevOps & APIs** | Docker, Postman, ngrok |
+| **Product workflow** | Git, GitHub, Jira, Notion, Obsidian, Discord, LinkedIn, Figma, Adobe Premiere Pro |
+| **Development environment** | VS Code, Visual Studio, PyCharm, Xcode, PowerShell |
 | **Platforms** | Windows, macOS, Linux |
 
 ## Currently exploring
