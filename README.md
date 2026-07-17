@@ -29,7 +29,7 @@ I’m **Olha**, a Computer Science student and Full-Stack / Mobile Developer who
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,expo,ts,js,html,css,php,python,ruby,c,cpp,cs,mysql,git,github,vscode,pycharm,figma,jira,ps,pr&theme=dark&perline=11" alt="Technology and tools: React, Expo, TypeScript, JavaScript, HTML, CSS, PHP, Python, Ruby, C, C++, C#, MySQL, Git, GitHub, VS Code, PyCharm, Figma, Jira, Adobe Photoshop and Adobe Premiere Pro" />
+    <img src="https://skillicons.dev/icons?i=react,expo,ts,js,html,css,php,python,ruby,c,cpp,cs,mysql,git,github,vscode,pycharm,xcode,windows,apple,linux,figma,jira,notion,obsidian,ngrok,ps,pr&theme=dark&perline=11" alt="Technology and tools: React, Expo, TypeScript, JavaScript, HTML, CSS, PHP, Python, Ruby, C, C++, C#, MySQL, Git, GitHub, VS Code, PyCharm, Xcode, Windows, macOS, Linux, Figma, Jira, Notion, Obsidian, ngrok, Adobe Photoshop and Adobe Premiere Pro" />
   </a>
 </div>
 
@@ -40,7 +40,9 @@ I’m **Olha**, a Computer Science student and Full-Stack / Mobile Developer who
 | **Mobile & Web** | React Native, Expo, React, TypeScript, JavaScript, HTML, CSS |
 | **Backend & Data** | Python, PHP, Ruby, MySQL, REST APIs |
 | **Core languages** | C, C++, C# |
-| **Product workflow** | Git, GitHub, Jira, Figma, Adobe Premiere Pro |
+| **Product workflow** | Git, GitHub, Jira, Notion, Obsidian, ngrok, Figma, Adobe Premiere Pro |
+| **Development environment** | VS Code, PyCharm, Xcode |
+| **Platforms** | Windows, macOS, Linux |
 
 ## Currently exploring
 
