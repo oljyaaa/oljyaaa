@@ -1,79 +1,80 @@
 <div align="center">
-  <a href="https://github.com/oljyaaa">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=28&pause=1100&color=C4B5FD&center=true&vCenter=true&width=760&lines=Olha+Solohub+%E2%80%94+Full-Stack+%26+Mobile+Developer;Building+thoughtful+digital+experiences+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;React+Native+%C2%B7+Expo+%C2%B7+Web+%C2%B7+Backend" alt="Typing introduction" />
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Olha Solohub — full-stack & mobile developer. A black cat lounges on the name next to a smiling sun." />
   <br />
   <br />
-  <a href="mailto:olgasologub2007@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=E2E8F0" alt="Email" /></a>
-  <a href="https://t.me/oljyaaa"><img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=E2E8F0" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/olha-solohub-2977b1351/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=E2E8F0" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=oljyaaa&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=20&pause=2000&color=FF7A3D&center=true&vCenter=true&width=760&lines=I+build+things+people+actually+enjoy+using+%E2%9C%A6;Mobile+%C2%B7+Web+%C2%B7+Backend+%E2%80%94+end+to+end.;Optimist+by+default.+Shipping+by+habit." alt="I build things people actually enjoy using" />
+  <br />
+  <br />
+  <a href="mailto:olgasologub2007@gmail.com"><img src="https://img.shields.io/badge/Email-FFC24B?style=for-the-badge&logo=gmail&logoColor=1E1410" alt="Email" /></a>
+  <a href="https://t.me/oljyaaa"><img src="https://img.shields.io/badge/Telegram-2BB5A6?style=for-the-badge&logo=telegram&logoColor=1E1410" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/olha-solohub-2977b1351/"><img src="https://img.shields.io/badge/LinkedIn-FF7A3D?style=for-the-badge&logoColor=1E1410" alt="LinkedIn" /></a>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-Open_to_collaboration-8B5CF6?style=flat-square&labelColor=1E1B4B" alt="Open to collaboration" />
-  <img src="https://img.shields.io/badge/BASED_IN-Ukraine_%F0%9F%87%BA%F0%9F%87%A6-312E81?style=flat-square&labelColor=1E1B4B" alt="Based in Ukraine" />
-</div>
-
-## About
-
-I’m **Olha**, a Computer Science student and Full-Stack / Mobile Developer who enjoys turning ideas into polished, useful products. I care about clean architecture, clear user flows, and the small details that make an interface feel effortless.
-
-- Building cross-platform mobile apps with **React Native** and **Expo**
-- Developing web and backend solutions with **React, JavaScript, TypeScript, Python, PHP, SQL**, and REST APIs
-- Designing intentional UI/UX in **Figma** and shipping work through an organized, collaborative workflow
-
-## Technology stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,expo,ts,js,html,css,jquery,php,python,ruby,dotnet,c,cpp,cs,mysql,sqlite,docker,npm,git,github,vscode,visualstudio,pycharm,xcode,powershell,postman,windows,apple,linux,figma,jira,notion,obsidian,discord,linkedin,ngrok,ps,pr&theme=dark&perline=11" alt="Technology and tools: React, Expo, TypeScript, JavaScript, HTML, CSS, jQuery, PHP, Python, Ruby, .NET, C, C++, C#, MySQL, SQLite, Docker, npm, Git, GitHub, VS Code, Visual Studio, PyCharm, Xcode, PowerShell, Postman, Windows, macOS, Linux, Figma, Jira, Notion, Obsidian, Discord, LinkedIn, ngrok, Adobe Photoshop and Adobe Premiere Pro" />
-  </a>
-</div>
+<p align="center">
+  <b>Open to internships &amp; product work.</b><br />
+  I’m a CS student who ships complete products — from the Figma frame to the database — and I genuinely enjoy the problem-solving in between.
+</p>
 
 <br />
 
-| Area | Tools I use |
-| :-- | :-- |
-| **Mobile & Web** | React Native, Expo, React, TypeScript, JavaScript, HTML, CSS, jQuery, npm |
-| **Backend & Data** | Python, PHP, Ruby, .NET, SQL, MySQL, SQLite, REST APIs |
-| **Core languages** | C, C++, C# |
-| **DevOps & APIs** | Docker, Postman, ngrok |
-| **Product workflow** | Git, GitHub, Jira, Notion, Obsidian, Discord, LinkedIn, Figma, Adobe Premiere Pro |
-| **Development environment** | VS Code, Visual Studio, PyCharm, Xcode, PowerShell |
-| **Platforms** | Windows, macOS, Linux |
+<img src="./assets/section-projects.svg" width="100%" alt="01 · Projects" />
 
-## Currently exploring
+<a href="https://github.com/oljyaaa/kai_labs"><img src="./assets/project-living-mind-map.svg" width="100%" alt="Living Mind Map — real-time social map of thoughts. Next.js, NestJS, Prisma, PostgreSQL, Socket.IO" /></a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React_Native-312E81?style=for-the-badge&logo=react&logoColor=C4B5FD" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-312E81?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt="Expo" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-312E81?style=for-the-badge&logo=dependabot&logoColor=C4B5FD" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/UI%2FUX-312E81?style=for-the-badge&logo=figma&logoColor=C4B5FD" alt="UI and UX" />
-</div>
+<p>
+  <a href="https://github.com/oljyaaa/planner-Plan_My_Day"><img src="./assets/project-daybook.svg" width="49%" alt="Daybook — mobile planner and day journal. React Native, Expo, Supabase" /></a>
+  <a href="https://github.com/oljyaaa/BeautyRoomApp"><img src="./assets/project-beauty-room.svg" width="49%" alt="BeautyRoom — cross-platform booking journal for a cosmetology studio. Expo Router, TypeScript" /></a>
+</p>
+<p>
+  <a href="https://github.com/oljyaaa/luxe-casa-crm"><img src="./assets/project-crimson-crm.svg" width="49%" alt="Crimson CRM — real-estate agency CRM. React, TypeScript, Tailwind, shadcn/ui" /></a>
+  <a href="https://github.com/oljyaaa/skillforge-api"><img src="./assets/project-skillforge-api.svg" width="49%" alt="SkillForge API — FastAPI service for web and mobile clients. Python, Docker" /></a>
+</p>
 
-## GitHub activity
+<sub>Also: <a href="https://github.com/oljyaaa/wishlist-api"><b>Wishlist API</b></a> (Express · Sequelize · MySQL · Zod · Jest) · <a href="https://github.com/oljyaaa/milky-petal-salon"><b>Milky Petal Salon</b></a> (React · Vite) · <a href="https://github.com/oljyaaa/LogiTalk"><b>LogiTalk</b></a> (Python chat bot) · <a href="https://github.com/oljyaaa/OOP_practice"><b>OOP practice</b></a> (C#)</sub>
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oljyaaa&theme=github_dark" alt="Olha's GitHub statistics" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oljyaaa&theme=github_dark" alt="Most used languages" />
-</div>
+<br />
+<br />
+
+<img src="./assets/section-stack.svg" width="100%" alt="02 · Tech stack" />
+
+<p>
+  <b>🧩 Languages</b><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,c,cpp,ruby,html,css&theme=dark" alt="TypeScript, JavaScript, Python, PHP, C#, C, C++, Ruby, HTML, CSS" />
+</p>
+<p>
+  <b>📱 Frontend & mobile</b><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,jquery&theme=dark" alt="React, Next.js, Vite, Tailwind CSS, jQuery" /><br /><sub>+ React Native · Expo · Expo Router · Reanimated · shadcn/ui · Radix · Framer Motion</sub>
+</p>
+<p>
+  <b>⚙️ Backend</b><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,dotnet,prisma,sequelize&theme=dark" alt="Node.js, Express, NestJS, FastAPI, .NET, Prisma, Sequelize" /><br /><sub>+ REST APIs · Socket.IO · JWT · Zod · Pydantic</sub>
+</p>
+<p>
+  <b>🗄️ Data</b><br />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite&theme=dark" alt="PostgreSQL, Supabase, MySQL, SQLite" />
+</p>
+<p>
+  <b>🚀 DevOps & testing</b><br />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,npm,jest,postman&theme=dark" alt="Docker, GitHub Actions, Git, GitHub, npm, Jest, Postman" /><br /><sub>+ Playwright · Testing Library · Supertest · ngrok</sub>
+</p>
+<p>
+  <b>🎨 Design & workflow</b><br />
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr,notion,obsidian,discord&theme=dark" alt="Figma, Photoshop, Premiere Pro, Notion, Obsidian, Discord" /><br /><sub>+ Jira</sub>
+</p>
+<p>
+  <b>💻 IDEs & platforms</b><br />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,powershell,windows,apple,linux&theme=dark" alt="VS Code, Visual Studio, PyCharm, PowerShell, Windows, macOS, Linux" /><br /><sub>+ Xcode</sub>
+</p>
 
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oljyaaa&background=0F172A&border=312E81&ring=A78BFA&fire=C4B5FD&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=94A3B8" alt="GitHub contribution streak" />
-</div>
+<img src="./assets/section-activity.svg" width="100%" alt="03 · Activity" />
 
-<br />
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oljyaaa&bg_color=0F172A&color=CBD5E1&line=8B5CF6&point=C4B5FD&area=true&area_color=312E81&hide_border=true" alt="GitHub activity graph" />
-</div>
-
-## Contribution garden
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=oljyaaa&background=FFF6EA&border=1E1410&ring=FF7A3D&fire=FF7A3D&currStreakNum=1E1410&sideNums=1E1410&currStreakLabel=E2562A&sideLabels=1E1410&dates=6B5446&stroke=1E1410&border_radius=22" alt="GitHub contribution streak" />
+</p>
 
 <div align="center">
   <picture>
@@ -86,5 +87,6 @@ I’m **Olha**, a Computer Science student and Full-Stack / Mobile Developer who
 <br />
 
 <div align="center">
-  <sub>Designed and built with care in Ukraine 🇺🇦</sub>
+  <b>☀️ Stay curious, ship kindly.</b><br />
+  <sub>Made in Ukraine 🇺🇦 · with a cat nearby</sub>
 </div>
