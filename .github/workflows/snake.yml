@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#121010&color_dots=#EEE7DC,#CFC4B4,#A39784,#6E6760,#2B2724
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#EEE7DC&color_dots=#1A1817,#3A3530,#6E6760,#A39784,#E6DCCD
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#6FA53A&color_dots=#EBEDF0,#FAD6DF,#F4A7B9,#D9768F,#A8445E
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#B9E769&color_dots=#161B22,#3B2A33,#7A3F55,#C76A86,#F4A7B9
 
       # Push the generated files to the "output" branch
       - name: Push to output branch

@@ -1,33 +1,70 @@
 <div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="olha@solohub — a neofetch-style terminal with an ASCII portrait of Olha and her profile, stack and focus" />
+</div>
 
-<img src="./assets/cover.svg" width="100%" alt="OLHA SOLOHUB — Who’s that developer? She’s curious. She’s bold. She ships." />
+<h2 align="center">Hi 👋, I’m Olha</h2>
 
-<img src="./assets/about.svg" width="100%" alt="She was born for building. Olha Solohub is a full-stack and mobile developer from Ukraine who ships complete products — from the Figma frame to the database." />
+<p align="center">
+  <b>Full-Stack &amp; Mobile Developer</b><br />
+  <code>just ship it, beautifully</code><br />
+  <br />
+  Building cross-platform apps and the reliable systems behind them.
+</p>
 
-<img src="./assets/section-collection.svg" width="100%" alt="The Collection — selected work" />
+<h2 align="center">🚀 About Me</h2>
 
-<a href="https://github.com/oljyaaa/kai_labs"><img src="./assets/project-living-mind-map.svg" width="100%" alt="Nº 01 Living Mind Map — real-time social map of thoughts. Next.js, NestJS, Prisma, PostgreSQL, Socket.IO" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/portrait-light.png" />
+  <img align="right" width="300" src="./assets/portrait-light.png" alt="Dithered pixel portrait of Olha" />
+</picture>
 
-<p><a href="https://github.com/oljyaaa/planner-Plan_My_Day"><img src="./assets/project-daybook.svg" width="49%" alt="Nº 02 Daybook — mobile planner and day journal. React Native, Expo, Supabase" /></a><a href="https://github.com/oljyaaa/BeautyRoomApp"><img src="./assets/project-beauty-room.svg" width="49%" alt="Nº 03 BeautyRoom — cross-platform booking journal for a cosmetology studio. Expo Router, TypeScript" /></a></p>
-<p><a href="https://github.com/oljyaaa/luxe-casa-crm"><img src="./assets/project-crimson-crm.svg" width="49%" alt="Nº 04 Crimson CRM — real-estate agency CRM. React, TypeScript, shadcn/ui" /></a><a href="https://github.com/oljyaaa/skillforge-api"><img src="./assets/project-skillforge-api.svg" width="49%" alt="Nº 05 SkillForge API — FastAPI service for web and mobile clients. Python, Docker" /></a></p>
+**Olha**, here — a Computer Science student from Ukraine 🇺🇦 who builds complete products, from the first Figma frame to the database behind it.
 
-<sub>Also in the archive: <a href="https://github.com/oljyaaa/wishlist-api"><b>Wishlist API</b></a> · <a href="https://github.com/oljyaaa/milky-petal-salon"><b>Milky Petal Salon</b></a> · <a href="https://github.com/oljyaaa/LogiTalk"><b>LogiTalk</b></a> · <a href="https://github.com/oljyaaa/OOP_practice"><b>OOP practice</b></a></sub>
+I build cross-platform apps with **React Native & Expo**, web products with **React, Next.js & Tailwind**, and APIs with **NestJS, FastAPI & Express** on **PostgreSQL / Supabase**.
 
-<br />
-<br />
+Right now I’m deepening my backend craft — real-time features with **Socket.IO**, clean data models with **Prisma**, and shipping with **Docker**.
 
-<img src="./assets/tech-edit.svg" width="100%" alt="The Tech Edit — TypeScript, JavaScript, Python, PHP, C#/.NET, C, C++, React, Next.js, Expo, Vite, Tailwind, Node.js, Express, NestJS, FastAPI, Prisma, Socket.IO, PostgreSQL, Supabase, MySQL, SQLite, Docker, GitHub Actions, Git, Jest, Postman, Figma, Notion and more" />
+My goal is simple: calm interfaces, clear user flows, and code that stays easy to change. Open to **internships & product work**.
 
-<img src="./assets/connect.svg" width="100%" alt="So… who’s next? Let’s talk." />
+<br clear="right" />
 
-<p><a href="mailto:olgasologub2007@gmail.com"><img src="./assets/btn-email.svg" width="32%" alt="Email" /></a><a href="https://t.me/oljyaaa"><img src="./assets/btn-telegram.svg" width="32%" alt="Telegram" /></a><a href="https://www.linkedin.com/in/olha-solohub-2977b1351/"><img src="./assets/btn-linkedin.svg" width="32%" alt="LinkedIn" /></a></p>
+<h2 align="center">🗂 Featured Projects</h2>
 
-<br />
-<br />
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| 🧠 [**Living Mind Map**](https://github.com/oljyaaa/kai_labs) | Real-time social map of thoughts: live feed, chats and a world map of all 250 countries | Next.js · NestJS · Prisma · PostgreSQL · Socket.IO |
+| 📅 [**Daybook**](https://github.com/oljyaaa/planner-Plan_My_Day) | Mobile planner & day journal: schedule, workload and personal finances | React Native · Expo · Supabase |
+| 💅 [**BeautyRoom**](https://github.com/oljyaaa/BeautyRoomApp) | Booking journal for a cosmetology studio with reminders and PDF export (diploma) | Expo Router · TypeScript · Jest |
+| 🏙️ [**Crimson CRM**](https://github.com/oljyaaa/luxe-casa-crm) | Real-estate agency CRM: clients, properties, calendar and analytics | React · TypeScript · shadcn/ui |
+| ⚡ [**SkillForge API**](https://github.com/oljyaaa/skillforge-api) | FastAPI service for SkillForge web and mobile clients | Python · FastAPI · Docker |
 
-<img src="./assets/section-numbers.svg" width="100%" alt="By the numbers" />
+<h2 align="center">🤝 Connect</h2>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=oljyaaa&background=EEE7DC&border=121010&ring=121010&fire=121010&currStreakNum=121010&sideNums=121010&currStreakLabel=121010&sideLabels=121010&dates=6E6760&stroke=121010&border_radius=0" alt="GitHub contribution streak" />
+<p align="center">
+  <a href="https://github.com/oljyaaa"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/olha-solohub-2977b1351/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:olgasologub2007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>&nbsp;
+  <a href="https://t.me/oljyaaa"><img src="./assets/telegram.svg" width="48" alt="Telegram" /></a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,c,cpp,ruby,html,css&theme=dark" alt="TypeScript, JavaScript, Python, PHP, C#, C, C++, Ruby, HTML, CSS" /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,jquery,nodejs,express,nestjs,fastapi,dotnet&theme=dark" alt="React, Next.js, Vite, Tailwind CSS, jQuery, Node.js, Express, NestJS, FastAPI, .NET" /><br />
+  <img src="https://skillicons.dev/icons?i=prisma,sequelize,postgres,supabase,mysql,sqlite,docker,githubactions,git,github&theme=dark" alt="Prisma, Sequelize, PostgreSQL, Supabase, MySQL, SQLite, Docker, GitHub Actions, Git, GitHub" /><br />
+  <img src="https://skillicons.dev/icons?i=jest,postman,npm,figma,ps,pr,notion,obsidian,vscode,linux&theme=dark" alt="Jest, Postman, npm, Figma, Photoshop, Premiere Pro, Notion, Obsidian, VS Code, Linux" /><br />
+  <sub>+ React Native · Expo · Reanimated · shadcn/ui · Socket.IO · Zod · Pydantic · Playwright · Jira · Xcode</sub>
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=oljyaaa&background=0E1013&border=3A4048&ring=F4A7B9&fire=F6B26B&currStreakNum=D7DAE0&sideNums=D7DAE0&currStreakLabel=B9E769&sideLabels=B9E769&dates=6B7280&stroke=3A4048&border_radius=14" alt="GitHub contribution streak" />
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oljyaaa/oljyaaa/output/github-contribution-grid-snake-dark.svg" />
@@ -35,6 +72,4 @@
   <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/oljyaaa/oljyaaa/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="./assets/footer.svg" width="100%" alt="Made with love and a black cat — Ukraine" />
-
-</div>
+<p align="center"><sub><code>olha@github ~ % exit</code> · made in Ukraine 🇺🇦</sub></p>
