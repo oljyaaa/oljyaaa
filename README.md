@@ -19,11 +19,17 @@
   <img align="right" width="300" src="./assets/portrait-light.png" alt="Dithered pixel portrait of Olha" />
 </picture>
 
-**Olha**, here — a Computer Science student from Ukraine 🇺🇦 who builds complete products, from the first Figma frame to the database behind it.
+**Olha**, here — a Software Engineering student from Ukraine 🇺🇦 who builds complete products, from the first Figma frame to the database behind it.
 
-I build cross-platform apps with **React Native & Expo**, web products with **React, Next.js & Tailwind**, and APIs with **NestJS, FastAPI & Express** on **PostgreSQL / Supabase**.
+🎓 **Education**
+- **National University “Kyiv Aviation Institute”** — Software Engineering (F2) · *currently studying*
+- **Berdychiv Professional College of Industry, Economics and Law** — Software Engineering (F2)
 
-Right now I’m deepening my backend craft — real-time features with **Socket.IO**, clean data models with **Prisma**, and shipping with **Docker**.
+💼 **What I do**
+- **Software & mobile developer** — cross-platform apps with **React Native & Expo**, web products with **React, Next.js & Tailwind**, APIs with **NestJS, FastAPI & Express**
+- **Programming technician** — keeping systems and code running smoothly
+- **Mentor & teacher** — helping others take their first confident steps in programming
+- **SMM & video maker** — content, storytelling and visuals that people actually watch
 
 My goal is simple: calm interfaces, clear user flows, and code that stays easy to change. Open to **internships & product work**.
 
